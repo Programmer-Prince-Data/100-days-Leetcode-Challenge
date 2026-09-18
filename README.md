@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
+| [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
