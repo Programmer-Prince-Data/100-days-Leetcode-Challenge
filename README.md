@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1143-longest-common-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
