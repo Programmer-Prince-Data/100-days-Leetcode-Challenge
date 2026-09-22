@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
+| [0062-unique-paths](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
+| [0062-unique-paths](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
