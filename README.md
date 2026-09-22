@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1043-partition-array-for-maximum-sum) |
 | [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 ## String
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
