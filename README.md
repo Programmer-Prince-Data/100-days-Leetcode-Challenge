@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
 | [1035-uncrossed-lines](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1035-uncrossed-lines) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
