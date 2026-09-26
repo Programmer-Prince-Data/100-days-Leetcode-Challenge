@@ -8,10 +8,22 @@ class Solution {
 
         int id = pairs.length;
 
-        for (int j = i + 1; j < pairs.length; j++) {
-            if (pairs[j][0] > pairs[i][1]) {
-                id = j;
-                break;
+        // for (int j = i + 1; j < pairs.length; j++) {
+        //     if (pairs[j][0] > pairs[i][1]) {
+        //         id = j;
+        //         break;
+        //     }
+        // }
+
+        int l = i + 1;
+        int h = pairs.length - 1;
+        while(l <= h){
+            int mid=(l+h)/2;
+            if(pairs[mid][0]>pairs[i][1]){
+                id=mid;
+                h=mid-1;
+            }else{
+                l=mid+1;
             }
         }
 
