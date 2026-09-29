@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0189-rotate-array) |
 | [0062-unique-paths](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0062-unique-paths) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2769-find-the-maximum-achievable-number) |
 ## Bit Manipulation
 |  |
 | ------- |
