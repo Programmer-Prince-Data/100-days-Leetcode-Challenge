@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0097-interleaving-string) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0097-interleaving-string) |
+| [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
+| [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
