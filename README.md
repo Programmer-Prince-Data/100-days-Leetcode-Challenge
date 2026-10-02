@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 ## String
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
