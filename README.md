@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1035-uncrossed-lines) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0097-interleaving-string) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -119,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
