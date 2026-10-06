@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0062-unique-paths) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [3871-count-commas-in-range-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
+| [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
+| [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0097-interleaving-string](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0097-interleaving-string) |
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
