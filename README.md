@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0239-sliding-window-maximum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0239-sliding-window-maximum) |
+| [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
