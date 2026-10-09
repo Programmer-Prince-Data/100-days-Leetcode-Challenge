@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0239-sliding-window-maximum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 ## String
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
