@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 ## String
 |  |
 | ------- |
@@ -139,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 ## Simulation
 |  |
 | ------- |
