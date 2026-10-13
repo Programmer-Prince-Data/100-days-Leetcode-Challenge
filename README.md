@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
+| [0120-triangle](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
+| [0120-triangle](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0120-triangle) |
 ## String
 |  |
 | ------- |
