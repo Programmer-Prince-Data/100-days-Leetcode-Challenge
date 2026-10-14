@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2769-find-the-maximum-achievable-number) |
 | [3871-count-commas-in-range-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
+| [2469-convert-the-temperature](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
