@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 | [0120-triangle](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0120-triangle) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0053-maximum-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
