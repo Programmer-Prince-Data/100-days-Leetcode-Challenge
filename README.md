@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 | [0120-triangle](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0120-triangle) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [1672-richest-customer-wealth](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [0064-minimum-path-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0064-minimum-path-sum) |
+| [1672-richest-customer-wealth](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1672-richest-customer-wealth) |
 ## Combinatorics
 |  |
 | ------- |
