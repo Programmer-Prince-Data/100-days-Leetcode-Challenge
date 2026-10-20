@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [1672-richest-customer-wealth](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [1550-three-consecutive-odds](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1550-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
