@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3871-count-commas-in-range-ii) |
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [2469-convert-the-temperature](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
+| [1185-day-of-the-week](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1185-day-of-the-week) |
 ## Bit Manipulation
 |  |
 | ------- |
