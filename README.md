@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
