@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1550-three-consecutive-odds](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1550-three-consecutive-odds) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Bracket Sequences
 |  |
 | ------- |
