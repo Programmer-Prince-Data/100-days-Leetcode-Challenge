@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0980-unique-paths-iii) |
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
+| [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
