@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2469-convert-the-temperature) |
 | [1185-day-of-the-week](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1185-day-of-the-week) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2169-count-operations-to-obtain-zero) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Queue
 |  |
 | ------- |
