@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1550-three-consecutive-odds](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1550-three-consecutive-odds) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
