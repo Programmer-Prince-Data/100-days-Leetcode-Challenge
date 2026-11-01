@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1550-three-consecutive-odds) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
