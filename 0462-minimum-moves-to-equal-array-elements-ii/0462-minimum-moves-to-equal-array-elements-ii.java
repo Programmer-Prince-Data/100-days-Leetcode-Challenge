@@ -3,9 +3,11 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
         int ans = 0;
-        int mid = n/2;
+        int x = n/2;
+        int mid = nums[x];
+
         for(int i = 0; i < n; i++){
-            ans += Math.abs(nums[mid] - nums[i]);
+            ans += Math.abs(mid - nums[i]);
         }
         return ans;
     }
