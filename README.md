@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1185-day-of-the-week) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
