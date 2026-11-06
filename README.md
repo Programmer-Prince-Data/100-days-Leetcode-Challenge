@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2185-counting-words-with-a-given-prefix) |
+| [0006-zigzag-conversion](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0006-zigzag-conversion) |
 ## Longest Common Subsequence
 |  |
 | ------- |
