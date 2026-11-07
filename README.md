@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0152-maximum-product-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1049-last-stone-weight-ii) |
 | [0120-triangle](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
