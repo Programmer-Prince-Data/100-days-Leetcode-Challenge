@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -241,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
