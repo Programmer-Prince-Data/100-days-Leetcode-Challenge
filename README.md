@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0152-maximum-product-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
+| [1652-defuse-the-bomb](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0239-sliding-window-maximum) |
+| [1652-defuse-the-bomb](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
