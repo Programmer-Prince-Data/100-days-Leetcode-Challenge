@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0152-maximum-product-subarray) |
 | [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
 | [1652-defuse-the-bomb](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
+| [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
+| [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
+| [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
