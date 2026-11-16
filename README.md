@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1446-consecutive-characters](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1446-consecutive-characters) |
 | [2278-percentage-of-letter-in-string](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2278-percentage-of-letter-in-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Longest Common Subsequence
 |  |
 | ------- |
