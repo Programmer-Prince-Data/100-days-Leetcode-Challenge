@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
 | [1652-defuse-the-bomb](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
+| [1920-build-array-from-permutation](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1920-build-array-from-permutation) |
 ## Queue
 |  |
 | ------- |
