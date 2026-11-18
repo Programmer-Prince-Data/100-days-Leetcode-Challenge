@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1492-the-kth-factor-of-n) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1837-sum-of-digits-in-base-k) |
 ## Bit Manipulation
 |  |
 | ------- |
