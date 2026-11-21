@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1652-defuse-the-bomb) |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1920-build-array-from-permutation) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
 | ------- |
