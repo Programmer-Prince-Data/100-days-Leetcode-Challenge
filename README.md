@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2525-categorize-box-according-to-criteria) |
 ## Bit Manipulation
 |  |
 | ------- |
