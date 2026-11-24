@@ -272,4 +272,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
