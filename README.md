@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2525-categorize-box-according-to-criteria) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [0055-jump-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0055-jump-game) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
