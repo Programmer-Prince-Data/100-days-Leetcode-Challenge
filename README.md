@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2525-categorize-box-according-to-criteria) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3360-stone-removal-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [1920-build-array-from-permutation](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1920-build-array-from-permutation) |
+| [3360-stone-removal-game](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/3360-stone-removal-game) |
 ## Queue
 |  |
 | ------- |
