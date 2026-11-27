@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1920-build-array-from-permutation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2351-first-letter-to-appear-twice) |
 | [0229-majority-element-ii](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0229-majority-element-ii) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## String Matching
 |  |
 | ------- |
