@@ -284,16 +284,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/1971-find-if-path-exists-in-graph) |
+| [0547-number-of-provinces](https://github.com/Programmer-Prince-Data/100-days-Leetcode-Challenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
